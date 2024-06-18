@@ -1,0 +1,5 @@
+example/
+.vscode/
+generate/
+test/
+.jshintrc

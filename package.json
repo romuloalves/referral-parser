@@ -1,5 +1,5 @@
 {
-  "name": "referral-parser",
+  "name": "@romuloalves/referral-parser",
   "version": "0.0.9",
   "description": "Parse a referral url into useful information",
   "main": "index.js",
